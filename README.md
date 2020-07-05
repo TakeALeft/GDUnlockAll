@@ -1,5 +1,5 @@
 # GDUnlockAll
-  Cheat that allows you to unlock all icons in geometry dash. It is writter in C++. There are few thing you need to know:
+  Cheat that allows you to unlock all icons in geometry dash. It is written in C++. There are few thing you need to know:
 
 # Compilation
   To compile the program please use Visual Studio 2019 or greater. In solution you will recieve one project, compile it as Release | x86. Also make sure to use Multi-Byte character set.
